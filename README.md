@@ -1,2 +1,2 @@
 # ModernFactory
-Teach modpack for Minecraft
+Tech modpack for Minecraft
