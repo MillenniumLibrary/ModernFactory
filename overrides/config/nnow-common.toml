@@ -1,0 +1,268 @@
+
+#Configuration related to the Booshelf Stairs and Slab
+[Bookshelf]
+	#Enchant power level modifier.
+	#Range: 1 ~ 16
+	"Enchant Level" = 1
+
+#Configuration related to the Viagre item
+[Viagre]
+	#No comment
+	"VIAGRA durability modifier" = 2342
+	#No comment
+	"VIAGRA has a durability cost when in main hand" = true
+	#Growth radius size modifier.
+	#Range: 1 ~ 16
+	"Growth Radius" = 8
+	#Tick Delay modifier. (Lower is faster)
+	#Range: 1 ~ 20
+	"Tick Delay" = 5
+
+#Configuration related to the Magnet item
+[Magnet]
+	#Magnet max pickup range modifier.
+	#Range: 1 ~ 16
+	"Pickup Range" = 8
+
+#Configuration related to the Poking Sticks
+["Poking Stick"]
+	#No comment
+	"Base Poking Stick durability  modifier" = 59
+	#No comment
+	"Stone Poking Stick durability  modifier" = 131
+	#No comment
+	"Iron Poking Stick durability  modifier" = 250
+	#No comment
+	#Range: 0.0 ~ 1.0
+	"Sapling drop chance modifier" = 0.5
+	#No comment
+	#Range: 0.0 ~ 1.0
+	"Cactus drop chance modifier" = 0.25
+
+#Configuration related to general settings
+[General]
+	#No comment
+	"Metal blocks, items and berrys are loaded" = true
+	#No comment
+	"Lava Well block is loaded" = true
+	#No comment
+	"Water Well block is loaded" = true
+	#No comment
+	"Cobblestone Generator block is loaded" = true
+	#No comment
+	"Gives the player the Troll item(s) when loading into a world" = true
+
+#Configuration related to the Traps blocks 
+[Traps]
+	#No comment
+	"Goldern monster trap attack power modifier" = 6
+	#No comment
+	"Diamond monster trap attack power modifier" = 10
+	#No comment
+	"Wither monster trap attack power modifier" = 320
+
+#Configuration related to Cobblestone Generator
+["Cobblestone Generator"]
+
+	#Durability cost
+	["Cobblestone Generator".Costs]
+		#No comment
+		"Wooden Pickaxe durability cost" = 8
+		#No comment
+		"Stone Pickaxe durability cost" = 16
+		#No comment
+		"Iron Pickaxe durability cost" = 32
+		#No comment
+		"Golden Pickaxe durability cost" = 32
+		#No comment
+		"Diamond Pickaxe durability cost" = 64
+		#No comment
+		"Netherite Pickaxe durability cost" = 64
+		#No comment
+		"Emerald Hammer durability cost" = 64
+
+	#Cobblestone return amount
+	["Cobblestone Generator".Returns]
+		#No comment
+		"Wooden Pickaxe cobblestone return amount" = 8
+		#No comment
+		"Stone Pickaxe cobblestone return amount" = 16
+		#No comment
+		"Iron Pickaxe cobblestone return amount" = 32
+		#No comment
+		"Golden Pickaxe cobblestone return amount" = 32
+		#No comment
+		"Diamond Pickaxe cobblestone return amount" = 64
+		#No comment
+		"Netherite Pickaxe cobblestone return amount" = 64
+		#No comment
+		"Emerald Hammer cobblestone return amount" = 64
+
+#Configuration related to the 3x3 mining tools
+["3x3 Tools"]
+
+	#Tier speed modifier
+	["3x3 Tools".Speed]
+		#No comment
+		#Range: 1.0 ~ 10.0
+		"Stone Tier speed modifier" = 4.5
+		#No comment
+		#Range: 1.0 ~ 10.0
+		"Iron Tier speed modifier" = 3.5
+		#No comment
+		#Range: 1.0 ~ 10.0
+		"Golden Tier speed modifier" = 2.0
+		#No comment
+		#Range: 1.0 ~ 10.0
+		"Diamond Tier speed modifier" = 2.0
+		#No comment
+		#Range: 1.0 ~ 10.0
+		"Netherite Tier speed modifier" = 1.0
+		#No comment
+		#Range: 1.0 ~ 10.0
+		"Emerald Tier speed modifier" = 2.0
+
+	#Tier durability modifier
+	["3x3 Tools".Durability]
+		#No comment
+		"Stone Tier durability modifier" = 197
+		#No comment
+		"Iron Tier durability modifier" = 375
+		#No comment
+		"Golden Tier durability modifier" = 48
+		#No comment
+		"Diamond Tier durability modifier" = 2732
+		#No comment
+		"Netherite Tier durability modifier" = 3047
+		#No comment
+		"Emerald Tier durability modifier" = 2732
+
+#Configuration related to the Berry Bushes in world drops
+[Berrys]
+
+	#No comment
+	[Berrys."Damage Settings"]
+		#No comment
+		"Berry Bushes do damage" = true
+		#No comment
+		"Berry Bushes attack power modifier" = 1
+
+	#No comment
+	[Berrys.Dusts]
+		#No comment
+		"Stone dust" = 8
+		#No comment
+		"Gravel dust" = 8
+		#No comment
+		"Sand dust" = 8
+		#No comment
+		"Dirt dust" = 8
+		#No comment
+		"Clay balls" = 8
+
+	#No comment
+	[Berrys.Nuggets]
+		#No comment
+		"Ice Nuggets" = 2
+		#No comment
+		"Fire Nuggets" = 2
+		#No comment
+		"Wooden Nuggets" = 16
+		#No comment
+		"Coal Nuggets" = 2
+		#No comment
+		"Iron Nuggets" = 2
+		#No comment
+		"Gold Nuggets" = 2
+		#No comment
+		"Redstone Nuggets" = 2
+		#No comment
+		"Glowstone Nuggets" = 2
+		#No comment
+		"Lapis Nuggets" = 2
+		#No comment
+		"Quartz Nuggets" = 2
+		#No comment
+		"Diamond Nuggets" = 2
+		#No comment
+		"Netherite Nuggets" = 2
+		#No comment
+		"Emerald Nuggets" = 2
+		#No comment
+		"XP Orbs" = 64
+
+	#No comment
+	[Berrys."Metal Berrys Bush Nuggets"]
+		#No comment
+		"Copper Nuggets" = 2
+		#No comment
+		"Nickel Nuggets" = 2
+		#No comment
+		"Sliver Nuggets" = 2
+		#No comment
+		"Uranium Nuggets" = 2
+		#No comment
+		"Lead Nuggets" = 2
+		#No comment
+		"Aluminum Nuggets" = 2
+		#No comment
+		"Tin Nuggets" = 2
+		#No comment
+		"Osmium Nuggets" = 2
+		#No comment
+		"Bismuth Nuggets" = 2
+		#No comment
+		"Zinc Nuggets" = 2
+		#No comment
+		"Platinum Nuggets" = 2
+		#No comment
+		"Iridium Nuggets" = 2
+
+#Configuration related to the shears
+[Shears]
+
+	#Shear's durability modifier
+	[Shears.Durability]
+		#No comment
+		"Wooden shears durability modifier" = 119
+		#No comment
+		"Golden shears durability modifier" = 357
+		#No comment
+		"Diamond shears durability modifier" = 476
+		#No comment
+		"Netherite shears durability modifier" = 952
+
+#Configuration related to the cakes
+[Cakes]
+
+	[Cakes.General]
+		#Defines if the cakes usage requires hunger, when set to true it ignores hunger [default: true]
+		"Ignore Hunger" = true
+		#Defines if the cakes teleportation point can be reset with the reset item [default: false]
+		"Reset Cakes" = false
+		#Defines the item needed to reset the cakes teleportation point [default: minecraft:milk_bucket]
+		"Reset Items" = ["minecraft:milk_bucket"]
+
+	#Nether cake settings
+	[Cakes."Nether Cake"]
+		#Defines if the Nether Cake gets partly consumed when eaten [default: true]
+		"Eat Nether Cake" = true
+		#Set the refill items used by Nether Cake (Only change if you know what you're doing) [modid:itemname].
+		"Nether Cake Refill Items" = ["minecraft:obsidian"]
+		#Defines if the Nether Cake should teleport the player 1x1 (Use this if you're replacing the Nether dimension with one that is 1x1) [default: false].
+		"Nether Cake Logic" = false
+
+	#End cake settings
+	[Cakes."End Cake"]
+		#Defines if the End Cake gets partly consumed when eaten [default: true]
+		"Eat End Cake" = true
+		#Set the refill items used by End Cake (Only change if you know what you're doing) [modid:itemname].
+		"End Cake Refill Items" = ["minecraft:ender_eye"]
+
+	#Overworld cake settings
+	[Cakes."Overworld Cake"]
+		#Defines if the Overworld Cake gets partly consumed when eaten [default: true]
+		"Eat Overworld Cake" = true
+		#Set the refill items used by Overworld Cake (Only change if you know what you're doing) [modid:itemname].
+		"Overworld Cake Refill Items" = ["minecraft:oak_sapling", "minecraft:spruce_sapling", "minecraft:birch_sapling", "minecraft:jungle_sapling", "minecraft:acacia_sapling", "minecraft:dark_oak_sapling"]
+

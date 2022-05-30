@@ -1,0 +1,216 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 30, 2022 9:37:35 PM
+
+#forge:oxygen
+- mekanism:oxygen
+- mekanism:flowing_oxygen
+
+#forge:crude_oil
+- thermal:crude_oil
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- cyclic:biomass
+- cyclic:biomass_flowing
+- cyclic:honey
+- cyclic:honey_flowing
+- cyclic:xpjuice
+- cyclic:xpjuice_flowing
+
+#forge:redstone
+- thermal:redstone
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:uranium_hexafluoride
+- mekanism:uranium_hexafluoride
+- mekanism:flowing_uranium_hexafluoride
+
+#forge:pink_slime
+- industrialforegoing:pink_slime
+- industrialforegoing:pink_slime_fluid
+
+#forge:biomass
+- cyclic:biomass
+
+#forge:biofuel
+- industrialforegoing:biofuel
+- industrialforegoing:biofuel_fluid
+
+#forge:magentite
+- bigreactors:magentite
+- bigreactors:magentite_flowing
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#forge:ethene
+- mekanism:ethene
+- mekanism:flowing_ethene
+
+#forge:sulfur_dioxide
+- mekanism:sulfur_dioxide
+- mekanism:flowing_sulfur_dioxide
+
+#forge:hydrogen
+- mekanism:hydrogen
+- mekanism:flowing_hydrogen
+
+#forge:uranium_oxide
+- mekanism:uranium_oxide
+- mekanism:flowing_uranium_oxide
+
+#forge:meat
+- industrialforegoing:meat
+- industrialforegoing:meat_fluid
+
+#forge:chlorine
+- mekanism:chlorine
+- mekanism:flowing_chlorine
+
+#forge:sewage
+- industrialforegoing:sewage
+- industrialforegoing:sewage_fluid
+
+#forge:superheated_sodium
+- mekanism:superheated_sodium
+- mekanism:flowing_superheated_sodium
+
+#forge:sodium
+- mekanism:sodium
+- mekanism:flowing_sodium
+
+#forge:verderium
+- bigreactors:verderium
+- bigreactors:verderium_flowing
+
+#forge:potion
+- cofh_core:potion
+
+#forge:sulfur_trioxide
+- mekanism:sulfur_trioxide
+- mekanism:flowing_sulfur_trioxide
+
+#forge:sulfuric_acid
+- mekanism:sulfuric_acid
+- mekanism:flowing_sulfuric_acid
+
+#forge:steam
+- mekanism:steam
+- mekanism:flowing_steam
+- bigreactors:steam
+- bigreactors:steam_flowing
+
+#forge:ender
+- thermal:ender
+
+#forge:experience
+- industrialforegoing:essence
+- industrialforegoing:essence_fluid
+- cyclic:xpjuice
+- cofh_core:experience
+
+#forge:yellorium
+- bigreactors:yellorium
+- bigreactors:yellorium_flowing
+
+#forge:slime
+- cyclic:slime
+
+#forge:hydrogen_chloride
+- mekanism:hydrogen_chloride
+- mekanism:flowing_hydrogen_chloride
+
+#forge:glowstone
+- thermal:glowstone
+
+#forge:lithium
+- mekanism:lithium
+- mekanism:flowing_lithium
+
+#forge:magma
+- cyclic:magma
+
+#forge:hydrofluoric_acid
+- mekanism:hydrofluoric_acid
+- mekanism:flowing_hydrofluoric_acid
+
+#forge:rossinite
+- bigreactors:rossinite
+- bigreactors:rossinite_flowing
+
+#forge:brine
+- mekanism:brine
+- mekanism:flowing_brine
+
+#forge:latex
+- industrialforegoing:latex
+- industrialforegoing:latex_fluid
+- thermal:latex
+
+#forge:honey
+- productivebees:honey
+- productivebees:flowing_honey
+- inspirations:honey?
+- cyclic:honey
+- cofh_core:honey
+
+#forge:creosote
+- thermal:creosote
+
+#appliedenergistics2:blacklisted/fluid_annihilation_plane
+
+#forge:sludge
+- industrialforegoing:sludge
+- industrialforegoing:sludge_fluid
+
+#create:no_infinite_draining
+- mekanism:hydrogen
+- mekanism:flowing_hydrogen
+- mekanism:oxygen
+- mekanism:flowing_oxygen
+- mekanism:chlorine
+- mekanism:flowing_chlorine
+- mekanism:sulfur_dioxide
+- mekanism:flowing_sulfur_dioxide
+- mekanism:sulfur_trioxide
+- mekanism:flowing_sulfur_trioxide
+- mekanism:sulfuric_acid
+- mekanism:flowing_sulfuric_acid
+- mekanism:hydrogen_chloride
+- mekanism:flowing_hydrogen_chloride
+- mekanism:hydrofluoric_acid
+- mekanism:flowing_hydrofluoric_acid
+- mekanism:uranium_oxide
+- mekanism:flowing_uranium_oxide
+- mekanism:uranium_hexafluoride
+- mekanism:flowing_uranium_hexafluoride
+- mekanism:ethene
+- mekanism:flowing_ethene
+- mekanism:sodium
+- mekanism:flowing_sodium
+- mekanism:superheated_sodium
+- mekanism:flowing_superheated_sodium
+- mekanism:brine
+- mekanism:flowing_brine
+- mekanism:lithium
+- mekanism:flowing_lithium
+- mekanism:steam
+- mekanism:flowing_steam
+- mekanism:heavy_water
+- mekanism:flowing_heavy_water
+
+#forge:heavy_water
+- mekanism:heavy_water
+- mekanism:flowing_heavy_water
+
+#forge:cyanite
+- bigreactors:cyanite
+- bigreactors:cyanite_flowing
+
+#forge:blutonium
+- bigreactors:blutonium
+- bigreactors:blutonium_flowing

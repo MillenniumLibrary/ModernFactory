@@ -1,0 +1,15 @@
+
+#Client only settings
+[client]
+	#Checking every tick is not efficient, how about check once every several tick?
+	#Range: > 1
+	checkInterval = 2
+	#Matched screens would disable your IME
+	screenBlacklist = []
+	#Matched screens would enable your IME
+	screenWhitelist = ["net.minecraft.client.gui.screen.EditBookScreen", "net.minecraft.client.gui.screen.EditSignScreen"]
+	#Matched input box would disable your IME
+	inputBlacklist = []
+	#Matched input box would enable your IME
+	inputWhitelist = []
+

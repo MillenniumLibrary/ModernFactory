@@ -1,0 +1,219 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 30, 2022 9:37:35 PM
+
+#mekanism:clean/lithium
+- jaopca:mekanism_clean.lithium
+
+#mekanism:dirty/chromium
+- jaopca:mekanism_dirty.chromium
+
+#mekanism:clean/manganese
+- jaopca:mekanism_clean.manganese
+
+#mekanism:dirty/nickel
+- jaopca:mekanism_dirty.nickel
+
+#mekanism:clean/draconium
+- jaopca:mekanism_clean.draconium
+
+#mekanism:clean/aluminum
+- jaopca:mekanism_clean.aluminum
+
+#mekanism:clean/titanium
+- jaopca:mekanism_clean.titanium
+
+#mekanism:clean/azure_silver
+- jaopca:mekanism_clean.azure_silver
+
+#mekanism:clean/zinc
+- jaopca:mekanism_clean.zinc
+
+#mekanism:dirty/aluminum
+- jaopca:mekanism_dirty.aluminum
+
+#mekanism:dirty/molybdenum
+- jaopca:mekanism_dirty.molybdenum
+
+#mekanism:dirty/yttrium
+- jaopca:mekanism_dirty.yttrium
+
+#mekanism:dirty/graphite
+- jaopca:mekanism_dirty.graphite
+
+#mekanism:dirty/bismuth
+- jaopca:mekanism_dirty.bismuth
+
+#mekanism:clean/indium
+- jaopca:mekanism_clean.indium
+
+#mekanism:dirty/gallium
+- jaopca:mekanism_dirty.gallium
+
+#mekanism:clean/nickel
+- jaopca:mekanism_clean.nickel
+
+#mekanism:dirty/sodium
+- jaopca:mekanism_dirty.sodium
+
+#mekanism:dirty/crimson_iron
+- jaopca:mekanism_dirty.crimson_iron
+
+#mekanism:dirty/strontium
+- jaopca:mekanism_dirty.strontium
+
+#mekanism:clean/magnesium
+- jaopca:mekanism_clean.magnesium
+
+#mekanism:dirty/cobalt
+- jaopca:mekanism_dirty.cobalt
+
+#mekanism:dirty/titanium
+- jaopca:mekanism_dirty.titanium
+
+#mekanism:dirty/zinc
+- jaopca:mekanism_dirty.zinc
+
+#mekanism:dirty
+- mekanism:dirty_iron
+- mekanism:dirty_gold
+- mekanism:dirty_osmium
+- mekanism:dirty_copper
+- mekanism:dirty_tin
+- mekanism:dirty_lead
+- mekanism:dirty_uranium
+- jaopca:mekanism_dirty.aluminum
+- jaopca:mekanism_dirty.azure_silver
+- jaopca:mekanism_dirty.bismuth
+- jaopca:mekanism_dirty.cadmium
+- jaopca:mekanism_dirty.chromium
+- jaopca:mekanism_dirty.cobalt
+- jaopca:mekanism_dirty.crimson_iron
+- jaopca:mekanism_dirty.draconium
+- jaopca:mekanism_dirty.gallium
+- jaopca:mekanism_dirty.graphite
+- jaopca:mekanism_dirty.indium
+- jaopca:mekanism_dirty.lithium
+- jaopca:mekanism_dirty.magnesium
+- jaopca:mekanism_dirty.manganese
+- jaopca:mekanism_dirty.molybdenum
+- jaopca:mekanism_dirty.nickel
+- jaopca:mekanism_dirty.rhenium
+- jaopca:mekanism_dirty.silver
+- jaopca:mekanism_dirty.sodium
+- jaopca:mekanism_dirty.strontium
+- jaopca:mekanism_dirty.titanium
+- jaopca:mekanism_dirty.tungsten
+- jaopca:mekanism_dirty.yttrium
+- jaopca:mekanism_dirty.zinc
+- jaopca:mekanism_dirty.zirconium
+
+#mekanism:clean/sodium
+- jaopca:mekanism_clean.sodium
+
+#mekanism:clean/bismuth
+- jaopca:mekanism_clean.bismuth
+
+#mekanism:clean/cobalt
+- jaopca:mekanism_clean.cobalt
+
+#mekanism:clean
+- mekanism:clean_iron
+- mekanism:clean_gold
+- mekanism:clean_osmium
+- mekanism:clean_copper
+- mekanism:clean_tin
+- mekanism:clean_lead
+- mekanism:clean_uranium
+- jaopca:mekanism_clean.aluminum
+- jaopca:mekanism_clean.azure_silver
+- jaopca:mekanism_clean.bismuth
+- jaopca:mekanism_clean.cadmium
+- jaopca:mekanism_clean.chromium
+- jaopca:mekanism_clean.cobalt
+- jaopca:mekanism_clean.crimson_iron
+- jaopca:mekanism_clean.draconium
+- jaopca:mekanism_clean.gallium
+- jaopca:mekanism_clean.graphite
+- jaopca:mekanism_clean.indium
+- jaopca:mekanism_clean.lithium
+- jaopca:mekanism_clean.magnesium
+- jaopca:mekanism_clean.manganese
+- jaopca:mekanism_clean.molybdenum
+- jaopca:mekanism_clean.nickel
+- jaopca:mekanism_clean.rhenium
+- jaopca:mekanism_clean.silver
+- jaopca:mekanism_clean.sodium
+- jaopca:mekanism_clean.strontium
+- jaopca:mekanism_clean.titanium
+- jaopca:mekanism_clean.tungsten
+- jaopca:mekanism_clean.yttrium
+- jaopca:mekanism_clean.zinc
+- jaopca:mekanism_clean.zirconium
+
+#mekanism:dirty/tungsten
+- jaopca:mekanism_dirty.tungsten
+
+#mekanism:clean/crimson_iron
+- jaopca:mekanism_clean.crimson_iron
+
+#mekanism:dirty/silver
+- jaopca:mekanism_dirty.silver
+
+#mekanism:dirty/azure_silver
+- jaopca:mekanism_dirty.azure_silver
+
+#mekanism:clean/molybdenum
+- jaopca:mekanism_clean.molybdenum
+
+#mekanism:clean/graphite
+- jaopca:mekanism_clean.graphite
+
+#mekanism:dirty/cadmium
+- jaopca:mekanism_dirty.cadmium
+
+#mekanism:clean/gallium
+- jaopca:mekanism_clean.gallium
+
+#mekanism:dirty/zirconium
+- jaopca:mekanism_dirty.zirconium
+
+#mekanism:clean/strontium
+- jaopca:mekanism_clean.strontium
+
+#mekanism:clean/zirconium
+- jaopca:mekanism_clean.zirconium
+
+#mekanism:clean/tungsten
+- jaopca:mekanism_clean.tungsten
+
+#mekanism:dirty/manganese
+- jaopca:mekanism_dirty.manganese
+
+#mekanism:clean/yttrium
+- jaopca:mekanism_clean.yttrium
+
+#mekanism:dirty/draconium
+- jaopca:mekanism_dirty.draconium
+
+#mekanism:dirty/lithium
+- jaopca:mekanism_dirty.lithium
+
+#mekanism:clean/chromium
+- jaopca:mekanism_clean.chromium
+
+#mekanism:dirty/rhenium
+- jaopca:mekanism_dirty.rhenium
+
+#mekanism:clean/cadmium
+- jaopca:mekanism_clean.cadmium
+
+#mekanism:dirty/magnesium
+- jaopca:mekanism_dirty.magnesium
+
+#mekanism:dirty/indium
+- jaopca:mekanism_dirty.indium
+
+#mekanism:clean/silver
+- jaopca:mekanism_clean.silver
+
+#mekanism:clean/rhenium
+- jaopca:mekanism_clean.rhenium

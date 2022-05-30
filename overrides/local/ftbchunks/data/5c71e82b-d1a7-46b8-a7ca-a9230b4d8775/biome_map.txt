@@ -1,0 +1,5 @@
+#010 minecraft:forest
+#379 minecraft:mountains
+#3DC minecraft:plains
+#169 minecraft:taiga
+#452 minecraft:wooded_hills
