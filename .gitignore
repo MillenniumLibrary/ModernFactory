@@ -3,11 +3,15 @@ HMCL-3.5.3.220.exe
 overrides/logs
 overrides/saves
 overrides/mods
-overrides/launcher_prefiles.json
+overrides/launcher_profiles.json
+overrides/patchouli_data.json
 overrides/options.txt
 overrides/versions
 overrides/assets
 overrides/libraries
 overrides/local
 hmcl.json
+<<<<<<< HEAD
 overrides/crash-reports
+=======
+>>>>>>> 773c2dc6ed1df1d37c8167eab7bb203c8bf974da
