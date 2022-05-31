@@ -15,3 +15,7 @@ overrides/assets
 overrides/libraries
 overrides/local
 hmcl.json
+<<<<<<< HEAD
+overrides/crash-reports
+=======
+>>>>>>> 773c2dc6ed1df1d37c8167eab7bb203c8bf974da
