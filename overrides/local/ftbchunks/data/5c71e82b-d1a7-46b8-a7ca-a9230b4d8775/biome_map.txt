@@ -2,4 +2,6 @@
 #379 minecraft:mountains
 #3DC minecraft:plains
 #169 minecraft:taiga
+#63C minecraft:taiga_hills
 #452 minecraft:wooded_hills
+#306 minecraft:wooded_mountains
