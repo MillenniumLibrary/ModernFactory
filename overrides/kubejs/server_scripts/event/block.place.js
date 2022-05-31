@@ -1,0 +1,3 @@
+onEvent("block.place", event => {
+    
+})
