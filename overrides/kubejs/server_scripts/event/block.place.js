@@ -1,3 +1,0 @@
-onEvent("block.place", event => {
-    
-})
