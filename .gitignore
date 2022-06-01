@@ -16,3 +16,4 @@ overrides/libraries
 overrides/local
 hmcl.json
 overrides/crash-reports
+overrides/kubejs/exported
