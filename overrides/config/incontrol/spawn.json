@@ -1,1 +1,9 @@
-[]
+[
+    {
+      "mob": "minecraft:ender_dragon",
+      "onjoin": true,
+      "healthmultiply": 15,
+      "result": "allow",
+      "dimension": "minecraft:the_end"
+    }
+]
