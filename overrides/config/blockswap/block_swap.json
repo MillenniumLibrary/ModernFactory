@@ -1,0 +1,8 @@
+{
+  "retroGen": false,
+  "swapper": {
+    "minecraft:andesite": "minecraft:stone",
+    "minecraft:diorite": "minecraft:stone",
+    "minecraft:granite": "minecraft:stone"
+  }
+}
