@@ -1,0 +1,178 @@
+{
+	id: "6CFDDBBE6AA45EE2"
+	group: ""
+	order_index: 0
+	filename: "questschaptr1"
+	title: "{quests.chaptr.1}"
+	icon: {
+		id: "minecraft:diamond_hoe"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "1F1E7AFAE065A514"
+			tasks: [{
+				id: "00899D7B8EB5804D"
+				type: "checkmark"
+				title: "{quests.1.start}"
+			}]
+		}
+		{
+			title: "{quests.1.logs}"
+			x: 1.5d
+			y: -2.5d
+			dependencies: ["1F1E7AFAE065A514"]
+			id: "70D6E15A8DE82E10"
+			tasks: [{
+				id: "4E90927BA637E1ED"
+				type: "item"
+				title: "Any #minecraft:logs"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				count: 8L
+			}]
+		}
+		{
+			title: "{quests.1.crafting_table}"
+			x: 4.0d
+			y: -1.0d
+			dependencies: ["70D6E15A8DE82E10"]
+			id: "181310D9DB77FA31"
+			tasks: [{
+				id: "3664DFEF28CF62F0"
+				type: "item"
+				item: "minecraft:crafting_table"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -1.0d
+			dependencies: [
+				"46CB749390EC485B"
+				"67DB9289B20D90B0"
+			]
+			id: "4C8BBDBAA812DDC6"
+			tasks: [{
+				id: "26BA1C3039F7DDAD"
+				type: "item"
+				item: {
+					id: "minecraft:iron_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 7.0d
+			y: -1.5d
+			dependencies: ["181310D9DB77FA31"]
+			id: "67DB9289B20D90B0"
+			tasks: [{
+				id: "4EF4CDE68D4662D2"
+				type: "item"
+				item: "minecraft:furnace"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 0.5d
+			dependencies: ["181310D9DB77FA31"]
+			id: "29ED9A0331E1965F"
+			tasks: [{
+				id: "2367A6BA5CD74083"
+				type: "item"
+				item: {
+					id: "minecraft:stone_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 1.0d
+			dependencies: ["29ED9A0331E1965F"]
+			id: "46CB749390EC485B"
+			tasks: [{
+				id: "6D390D727D694A54"
+				type: "item"
+				item: "minecraft:iron_ore"
+			}]
+		}
+		{
+			x: 9.5d
+			y: 1.5d
+			dependencies: ["4C8BBDBAA812DDC6"]
+			id: "101BC1ADCA24C921"
+			tasks: [{
+				id: "4E47F9DFBB8FCAE4"
+				type: "item"
+				item: "minecraft:diamond"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.5d
+			dependencies: ["181310D9DB77FA31"]
+			id: "6DE067A96A7BBBB9"
+			tasks: [{
+				id: "656ED6606D499FE8"
+				type: "item"
+				item: {
+					id: "minecraft:stone_hoe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 4.0d
+			dependencies: ["6DE067A96A7BBBB9"]
+			id: "704A4B31D9B0472E"
+			tasks: [{
+				id: "130529E1F6053832"
+				type: "item"
+				item: "minecraft:wheat_seeds"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 3.5d
+			dependencies: [
+				"704A4B31D9B0472E"
+				"101BC1ADCA24C921"
+			]
+			id: "360245097F75F740"
+			tasks: [{
+				id: "7E817B26730E6D53"
+				type: "custom"
+				icon: {
+					id: "minecraft:diamond_hoe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+}
